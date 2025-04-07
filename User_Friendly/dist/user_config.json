@@ -1,0 +1,22 @@
+{
+    "screenShotHeight": 320,
+    "screenShotWidth": 320,
+    "useMask": true,
+    "maskSide": "left",
+    "maskWidth": 80,
+    "maskHeight": 200,
+    "aaMovementAmp": 0.4,
+    "confidence": 0.4,
+    "aaActivateKey": "CapsLock",
+    "aaQuitKey": "8",
+    "headshot_mode": true,
+    "cpsDisplay": true,
+    "visuals": false,
+    "centerOfScreen": true,
+    "model_path": "pt_models/v5_model.onnx",
+    "model_type": "onnx",
+    "enable_cuda": false,
+    "device_type": "directml",
+    "Close App": false
+  }
+  
