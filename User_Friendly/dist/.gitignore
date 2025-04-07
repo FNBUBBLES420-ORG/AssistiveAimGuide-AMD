@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Distribution folders
+dist/
+build/
+*.egg-info/
+
+# Runtime and virtual environment folders
+pytorch_model.bin
+venv/
+env/
+*.env
+
+# Logs and dumps
+*.log
+*.dump
+
+# PyArmor output
+pyarmor_runtime_*/
+
+# Ignore compiled models or exports
+*.pt
+*.engine  # Not used on AMD but still excluded to keep the repo clean
+
+# Only allow .onnx models; others should be excluded
+# (leave this if you want to track .onnx manually)
+
+# Ignore user-generated config
+user_config.json
+
+# Ignore media or image output
+imgs/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# VSCode config
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
