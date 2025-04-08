@@ -45,3 +45,6 @@ imgs/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Ignore MD files
+*.md
