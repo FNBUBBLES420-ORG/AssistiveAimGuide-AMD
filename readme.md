@@ -10,7 +10,6 @@
 </p>
 
 
-
 # 🎯 Assistive AimGuide Configuration GUI - AMD GPU
 
 A sleek, user-friendly configuration tool built with `Tkinter` for customizing and launching the Assistive AimGuide, designed to help disabled gamers and streamers optimize their aim-assist tool powered by AI models. Perfect for users with physical or cognitive challenges who need support while gaming.
